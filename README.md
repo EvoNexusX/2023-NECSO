@@ -1,7 +1,7 @@
-# 2023-NECSO
+# 2024-NECSO
 ----------reference----------
 
-Yanghe Zou, Yiran Zhou, Qingcheng Xu. Heliostat Field Layout via Niching and Elite Competition Swarm Optimization
+Y. Zou, Y. Zhou and Q. Xu, "Heliostat Field Layout via Niching and Elite Competition Swarm Optimization," in IEEE Access, vol. 12, pp. 31589-31604, 2024
 
 fitness function: Ackley
 
